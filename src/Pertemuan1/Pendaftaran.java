@@ -11,6 +11,7 @@ package Pertemuan1;
  */
 public class Pendaftaran {
     public static void main(String[] args){
+        
         Mahasiswa mhs = new Mahasiswa();
         mhs.nama = "Frentyusmelia";
         mhs.nobp = "2101091005";

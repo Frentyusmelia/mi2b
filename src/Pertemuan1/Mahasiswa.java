@@ -24,12 +24,12 @@ public class Mahasiswa {
                 + "No BP  : "+mhs.nobp+"\n"
                         + "Kelas  : "+mhs.kelas+"\n"
                         + "Prodi  : "+mhs.prodi+"\n"
-                        + "Jurusan : "+mhs.jurusan);
+                            + "Jurusan : "+mhs.jurusan);
         
         System.out.println(" ");
         
         Mahasiswa mhs1 = new Mahasiswa();
-        mhs1.nama = "Winni DY";
+        mhs1.nama = "Winni Dwi Yanti";
         mhs1.nobp = "2101091021";
         mhs1.kelas = "EL2B";
         mhs1.prodi = "EL";
